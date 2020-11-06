@@ -20,7 +20,7 @@
 
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/tyler-alsop)
-  - [E-mail](dev.tyleralsop@gmail.com)
+  - [E-mail](mailto:dev.tyleralsop@gmail.com)
 
 - 😄 Pronouns:
   - He/Him
