@@ -35,5 +35,5 @@
     - 21 states
 - We're about to have our first child!
 
-Pronouns:
+Preferred Pronouns:
 - He/Him
