@@ -1,15 +1,33 @@
-### Hi I'm Tyler
+### I'm Tyler and I'm ready to code!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: 
+  - A react app to connect potential customers to pet groomers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning:
+  - Python
+  - Algorithms
+  - Redux (refresher)
+
+- 👯 I’m looking to collaborate on:
+  - Anything
+
+- 🤔 I’m looking for help with:
+  - Breaking into the tech industry as a full-stack web develeper
+
+- 💬 Ask me about:
+  - Anything
+  - My travels
+
 - 📫 How to reach me:
-  [Linkedin](https://www.linkedin.com/in/tyler-alsop)
-  [e-mail](dev.tyleralsop@gmail.com)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... 
--->
+  - [Linkedin](https://www.linkedin.com/in/tyler-alsop)
+  - [E-mail](dev.tyleralsop@gmail.com)
+
+- 😄 Pronouns:
+  - He/Him
+
+- ⚡ Fun facts:
+  - We're about to have our first child!
+  - My wife and I have traveled together to:
+      -  6 continents
+      - 23 countries
+      - 21 states
