@@ -29,11 +29,11 @@
 - My travels
 
 🌎🌍🌏 Fun facts:
-- We're about to have our first child!
 - My wife and I have traveled together to:
     -  6 continents
     - 23 countries
     - 21 states
+- We're about to have our first child!
 
 Pronouns:
 - He/Him
