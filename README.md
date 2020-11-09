@@ -1,4 +1,4 @@
-# Hi I'm Tyler and I'm ready to code!
+# Lets get coding!
 
 ## I'm a full-stack web developer working on my endorsment from Lambda School. It's been a fun and challenging road into the world of coding and I'm grateful for every minute of it.
 
