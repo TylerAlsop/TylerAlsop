@@ -1,6 +1,6 @@
 # Lets get coding!
 
-## I'm a full-stack web developer working on my endorsment from Lambda School. It's been a fun and challenging road into the world of coding and I'm grateful for every minute of it.
+## I'm a full-stack web developer getting close to being endorsed by Lambda School. It's been a fun and challenging road into the world of coding and I'm grateful for every minute of it.
 
 ## [Resume](https://drive.google.com/file/d/17qnMEskUy8YZ-2GeZ0YuuGW2IupHvExV/view?usp=sharing)
 <p>&nbsp</p>
