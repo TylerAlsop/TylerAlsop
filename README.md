@@ -1,8 +1,8 @@
 # Lets get coding!
 
-## I'm a full-stack web developer getting close to being endorsed by Lambda School. It's been a fun and challenging road into the world of coding and I'm grateful for every minute of it.
+## I'm a full-stack web developer endorsed by [Lambda School](https://lambdaschool.com/). It's been a fun and challenging road into the world of coding and I'm grateful for every minute of it.
 
-## [Resume](https://drive.google.com/file/d/17qnMEskUy8YZ-2GeZ0YuuGW2IupHvExV/view?usp=sharing)
+## View My [Resume](https://drive.google.com/file/d/17qnMEskUy8YZ-2GeZ0YuuGW2IupHvExV/view?usp=sharing)
 <p>&nbsp</p>
 
 
@@ -17,7 +17,7 @@
 
 
 🔨 I’m currently working on: 
-- A react app to connect potential customers to pet groomers.
+- A website for a 3D printing company.
 
 🤓📖 I’m currently learning:
 - Python
@@ -30,10 +30,10 @@
 
 🌎🌍🌏 Fun facts:
 - My wife and I have traveled together to:
-    -  6 continents
+    - 6 continents
     - 23 countries
     - 21 states
-- We're about to have our first child!
+- We just had our first child!
 
 Preferred Pronouns:
 - He/Him
