@@ -6,29 +6,29 @@
 <p>&nbsp</p>
 
 
-📫 How to reach me:
+### How to reach me:
   - [Linkedin](https://www.linkedin.com/in/tyler-alsop)
   - [E-mail](mailto:dev.tyleralsop@gmail.com)
 
-💪 Strengths:
+### Strengths:
 - JavaScript
 - React
 - Python
 
 
-🔨 I’m currently working on: 
+### I’m currently working on: 
 - A website for a 3D printing company.
 
-🤓📖 I’m currently learning:
+### I’m currently learning:
 - Python
 - Algorithms
 - Redux (refresher)
 
-💬 Ask me about:
+### Ask me about:
 - Anything
 - My travels
 
-🌎🌍🌏 Fun facts:
+### Fun facts:
 - My wife and I have traveled together to:
     - 6 continents
     - 23 countries
