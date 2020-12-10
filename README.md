@@ -2,7 +2,7 @@
 
 ## I'm a full-stack web developer endorsed by [Lambda School](https://lambdaschool.com/). It's been a fun and challenging road into the world of coding and I'm grateful for every minute of it.
 
-## View My [Resume](https://drive.google.com/file/d/111GxYdlWy70oDNyfDLRf2mnrRrlIefoX/view?usp=sharing)
+## View My [Resume Here](https://drive.google.com/file/d/1ZK0LqcmpOMKgADvD1QtTTV-2WB6JcV-F/view?usp=sharing)
 <p>&nbsp</p>
 
 
