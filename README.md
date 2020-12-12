@@ -3,7 +3,6 @@
 ## I'm a full-stack web developer endorsed by [Lambda School](https://lambdaschool.com/). It's been a fun and challenging road into the world of coding and I'm grateful for every minute of it.
 
 ## View My [Resume Here](https://drive.google.com/file/d/15rRcidyz7uELqgKoVb-lJPgW6wWe039v/view?usp=sharing)
-<p>&nbsp</p>
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=tyleralsop)](https://github.com/tyleralsop/github-readme-stats)
 
