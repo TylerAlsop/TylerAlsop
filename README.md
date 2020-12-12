@@ -9,7 +9,7 @@
 
 ## How to reach me:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="logos/linkedin/LI-In-Bug.png" height="15px"> Linkedin](https://www.linkedin.com/in/tyler-alsop)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[✉️ &nbsp;E-mail](mailto:dev.tyleralsop@gmail.com)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[✉️ E-mail](mailto:dev.tyleralsop@gmail.com)  
 
 ## Strengths:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="logos/js/javascript.svg" height="15px">  JavaScript  
