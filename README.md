@@ -4,7 +4,7 @@
 
 ## View My [Resume Here](https://drive.google.com/file/d/15rRcidyz7uELqgKoVb-lJPgW6wWe039v/view?usp=sharing)
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=tyleralsop&count_private=true&hide=stars&bg_color=999b9e)](https://github.com/tyleralsop/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=tyleralsop&count_private=true&hide=stars)](https://github.com/tyleralsop/github-readme-stats)
 
 
 ### How to reach me:
