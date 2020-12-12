@@ -19,7 +19,7 @@
 
 ## I’m currently working on: 
 - A website for a 3D printing company.
-- [My Blog](https://tyleralsop.medium.com/)
+- [My Blog on Medium](https://tyleralsop.medium.com/)
 
 ## I’m currently learning:
 - Python
