@@ -7,30 +7,30 @@
 [![Tyler Alsop's Stats](https://github-readme-stats.vercel.app/api?username=tyleralsop&count_private=true&hide=stars)](https://github.com/tyleralsop/github-readme-stats)
 
 
-### How to reach me:
-[<img src="logos/linkedin/LI-In-Bug.png" height="15px"> Linkedin](https://www.linkedin.com/in/tyler-alsop)  
-[✉️ E-mail](mailto:dev.tyleralsop@gmail.com)  
+## How to reach me:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="logos/linkedin/LI-In-Bug.png" height="15px"> Linkedin](https://www.linkedin.com/in/tyler-alsop)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[✉️    E-mail](mailto:dev.tyleralsop@gmail.com)  
 
-### Strengths:
-<img src="logos/js/javascript.svg" height="15px"> JavaScript  
-<img src="logos/react/react.svg" height="15px"> React  
-<img src="logos/python/python.svg" height="15px"> Python  
+## Strengths:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="logos/js/javascript.svg" height="15px">  JavaScript  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="logos/react/react.svg" height="15px">  React  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="logos/python/python.svg" height="15px">  Python  
 
 
-### I’m currently working on: 
+## I’m currently working on: 
 - A website for a 3D printing company.
 - [My Blog](https://tyleralsop.medium.com/)
 
-### I’m currently learning:
+## I’m currently learning:
 - Python
 - Algorithms
 - Redux (refresher)
 
-### Ask me about:
+## Ask me about:
 - Anything
 - My travels
 
-### Fun facts:
+## Fun facts:
 - My wife and I have traveled together to:
     - 6 continents
     - 23 countries
