@@ -5,6 +5,8 @@
 ## View My [Resume Here](https://drive.google.com/file/d/15rRcidyz7uELqgKoVb-lJPgW6wWe039v/view?usp=sharing)
 <p>&nbsp</p>
 
+[![My Stats](https://github-readme-stats.vercel.app/api?username=tyleralsop)](https://github.com/tyleralsop/github-readme-stats)
+
 
 ### How to reach me:
   - [Linkedin](https://www.linkedin.com/in/tyler-alsop)
