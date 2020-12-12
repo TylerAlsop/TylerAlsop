@@ -1,20 +1,20 @@
 # Lets get coding!
 
-## I'm a full-stack web developer endorsed by [Lambda School](https://lambdaschool.com/). It's been a fun and challenging road into the world of coding and I'm grateful for every minute of it.
+### I'm a full-stack web developer endorsed by [Lambda School](https://lambdaschool.com/). It's been a fun and challenging road into the world of coding and I'm grateful for every minute of it.
 
 ## View My [Resume Here](https://drive.google.com/file/d/15rRcidyz7uELqgKoVb-lJPgW6wWe039v/view?usp=sharing)
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=tyleralsop&count_private=true&hide=stars)](https://github.com/tyleralsop/github-readme-stats)
+[![Tyler Alsop's Stats](https://github-readme-stats.vercel.app/api?username=tyleralsop&count_private=true&hide=stars)](https://github.com/tyleralsop/github-readme-stats)
 
 
 ### How to reach me:
-  - [Linkedin](https://www.linkedin.com/in/tyler-alsop)
-  - [E-mail](mailto:dev.tyleralsop@gmail.com)
+[<img src="logos/linkedin/LI-In-Bug.png" height="15px"> Linkedin](https://www.linkedin.com/in/tyler-alsop)  
+[✉️ E-mail](mailto:dev.tyleralsop@gmail.com)  
 
 ### Strengths:
-- JavaScript
-- React
-- Python
+<img src="logos/js/javascript.svg" height="15px"> JavaScript  
+<img src="logos/react/react.svg" height="15px"> React  
+<img src="logos/python/python.svg" height="15px"> Python  
 
 
 ### I’m currently working on: 
